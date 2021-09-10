@@ -2,13 +2,13 @@
 
 Este proyecto surge del interés en estudiar la arquitectura de microservicios, que ha demostrado enormes éxitos como por ejemplo el caso de Netflix.
 
-En este TFG se revisa la arquitectura monolítica, la de microservicios y se las compara, viendo cuándo es mejor aplicar cada una de las dos. Se recomienda encarecidamente la lectura de la <a href="https://github.com/SamuelGarciaG/TFG-Microservices-Netflix/blob/master/Trabajo%20de%20Fin%20de%20Grado%20Samuel%20Garc%C3%ADa.pdf" target="_blank">memoria</a>. del proyecto.
+En este TFG se revisa la arquitectura monolítica, la de microservicios y se las compara, viendo cuándo es mejor aplicar cada una de las dos. Se recomienda encarecidamente la lectura de la <a href="https://github.com/alexdeassis7/MicroservicesSpringBootAngularZuulEureka/blob/master/Trabajo.pdf" target="_blank">memoria</a>. del proyecto.
 
 Además de toda esta revisión biblográfica sobre los microservicios, se desarrolló un proyecto para poder ver esta arquitectura en funcionamiento. Es una página web que sirve como un foro de películas, en las que podemos ver un catálogo de películas, datos de las mismas y opiniones de algunos usuarios. De nuevo, para ver más detalles sobre la aplicación, se puede hacer en la <a href="https://github.com/SamuelGarciaG/TFG-Microservices-Netflix/blob/master/Trabajo%20de%20Fin%20de%20Grado%20Samuel%20Garc%C3%ADa.pdf" target="_blank">memoria</a>.
 
 La aplicación consta de la siguiente arquitectura:
 
-<img title="Architecture TFG" src="https://user-images.githubusercontent.com/47883616/103152318-2ca37900-4787-11eb-8e93-a1ec6155f4f2.png">
+<img title="Architecture TFG" src="https://github.com/alexdeassis7/MicroservicesSpringBootAngularZuulEureka/blob/master/Trabajo.pdf">
 
 ## Proceso de despliegue
 
